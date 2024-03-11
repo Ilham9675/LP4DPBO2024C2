@@ -56,4 +56,3 @@ class Parkinglot:
 
     # Tidak diperlukan destruktor dalam Python karena Garbage Collection akan menangani pelepasan memori.
 
-# Jika Anda memiliki kode lain di file Car.cpp atau Motorcycle.cpp, Anda harus menerapkannya dalam Python juga.
